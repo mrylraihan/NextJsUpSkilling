@@ -1,6 +1,8 @@
 ### Framework
 
-A framework is a structured, pre-built platform or set of tools that provides a foundation for developing software applications. It offers a collection of libraries, functions, and reusable components that simplify and streamline the development process. Frameworks are designed to handle common tasks and functionalities, allowing developers to focus more on implementing specific features and logic unique to their applications. They abstract complex details, promote code reusability, enforce consistency, and speed up development by offering ready-made solutions for common tasks. # NextJsUpSkilling
+A framework is a structured, pre-built platform or set of tools that provides a foundation for developing software applications. It offers a collection of libraries, functions, and reusable components that simplify and streamline the development process. Frameworks are designed to handle common tasks and functionalities, allowing developers to focus more on implementing specific features and logic unique to their applications. They abstract complex details, promote code reusability, enforce consistency, and speed up development by offering ready-made solutions for common tasks. 
+
+In the world of web development, we encounter distinct frameworks, each serving specific roles—some dedicated to front-end tasks, while others specialize in backend operations. In this module, our primary focus will be on Express, a powerful backend framework. While numerous frameworks cater to frontend development, Express shines as a specialized tool meticulously designed to streamline and optimize server-side application development. Throughout this module, we will explore Express in-depth, uncovering its potential to create robust and efficient backend solutions.
 
 ### Library 
 
