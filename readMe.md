@@ -6,7 +6,7 @@ A framework is a structured, pre-built platform or set of tools that provides a 
 
 A library is a collection of pre-written code or software components that developers can use to perform specific tasks or functions. Unlike a framework, a library does not provide a complete structure or foundation for an application. Instead, it offers individual functions, classes, or modules that can be integrated into an application to extend its capabilities.
 
-Examples of popular libraries include NumPy for numerical computations in Python, React for building user interfaces in JavaScript, and Pandas for data manipulation in Python data analysis projects.
+When using a library, developers typically call its functions or methods directly within their code to leverage its capabilities. Libraries can significantly speed up the development process by providing pre-built solutions to common problems, allowing developers to focus on building the unique aspects of their applications.
 
 
 ### FvsL
