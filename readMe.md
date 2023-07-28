@@ -25,3 +25,6 @@ When building a server, using vanilla JS would require a significant amount of m
 Using vanilla JS for server development involves manual work and added complexity. Instead, using Express simplifies the process by providing tools for routing, middleware handling, and error management, allowing developers to focus on core application logic and increasing productivity.
 
 Opting for vanilla JS in server development means more manual work and complexity. On the other hand, Express streamlines the process with tools for routing, middleware, and error handling, freeing developers to focus on core logic, ultimately boosting productivity.
+
+
+When building a server, choosing vanilla JS requires more manual setup and introduces additional complexity to the project. However, utilizing a framework like Express streamlines the process by providing built-in tools for routing, middleware, and error handling. This approach allows developers to focus on the core logic of their application, leading to increased productivity and a more efficient development experience.
