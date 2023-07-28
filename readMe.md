@@ -17,3 +17,11 @@ A framework inverts control by dictating the overall structure and flow of the a
 
 
 In this module, our main focus is on Express, a powerful backend framework that optimizes server-side application development. We will explore Express in-depth, uncovering its potential to create robust and efficient backend solutions.
+
+### why express
+
+When building a server, using vanilla JS would require a significant amount of manual work, adding complexity to the development process. However, by opting for a framework like Express, we can streamline the server creation process. Express provides a wealth of tools and functionalities that simplify tasks like routing, middleware handling, and error management, freeing developers from tedious manual implementations. This empowers us to focus on the core logic of our application, leading to more efficient and productive server development.
+
+Using vanilla JS for server development involves manual work and added complexity. Instead, using Express simplifies the process by providing tools for routing, middleware handling, and error management, allowing developers to focus on core application logic and increasing productivity.
+
+Opting for vanilla JS in server development means more manual work and complexity. On the other hand, Express streamlines the process with tools for routing, middleware, and error handling, freeing developers to focus on core logic, ultimately boosting productivity.
