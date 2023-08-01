@@ -28,3 +28,7 @@ Opting for vanilla JS in server development means more manual work and complexit
 
 
 When building a server, choosing vanilla JS requires more manual setup and introduces additional complexity to the project. However, utilizing a framework like Express streamlines the process by providing built-in tools for routing, middleware, and error handling. This approach allows developers to focus on the core logic of their application, leading to increased productivity and a more efficient development experience.
+
+
+Dynamic Routing 
+Dynamic routing in Express.js allows you to define routes with placeholders in the URL path to handle variable data from incoming requests. Using colon-prefixed parameters, such as :userId, you can extract values from the URL and access them through the req.params object. This enables you to create flexible and parameterized routes to handle various scenarios in your application, like user IDs or product names. For example, a route defined as /users/:userId will respond differently based on the value of userId in the request URL, providing personalized responses for different user IDs. Dynamic routing enhances the modularity and flexibility of your application, making it easier to manage and extend as your project grows.
