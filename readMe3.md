@@ -39,3 +39,9 @@ Middleware functions are incredibly useful as they can perform tasks like loggin
 ## Another Example 
 
 Lets add another piece of middleware for a route not found error
+
+### Routers
+
+Express Routers offer a practical way to keep an Express server's code organized. By extracting routes into separate files, we can avoid cluttering the main app.js, ensuring a cleaner and more manageable codebase. This modular approach improves readability, promotes scalability, and enhances the efficiency of development, resulting in a well-structured and maintainable Express application.
+
+Express Routers keep the code organized by extracting routes into separate files. This modular approach improves readability, scalability, and development efficiency, leading to a well-structured and maintainable Express application.
